@@ -1,4 +1,4 @@
-# Milestone project 1: Building a memory game
+# Milestone project 2: Building a memory game
 
 ## The purpose of the project
 
