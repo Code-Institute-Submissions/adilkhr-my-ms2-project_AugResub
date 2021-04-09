@@ -32,4 +32,12 @@
 
 * Another future feature that i would also like to implement is different types of games to the sight (not just a memory game) so that if the user feels they wnat a differnt game to play they have the option there to keep them even more engaged with the site
 
+## Typography and color scheme
 
+* The theme of the game was actually taken from a game i enjoy myself which is from call of duty and their zombies game mode so i thought of a way to implement the theme into the game through the use of relevant images of the game aswell as a specific color scheme.
+
+* The three main colours involved with my project are black, grey and red, as my game is based on a zombie themed game from call of duty which im aware people are familiar with so i have added the color red to the cards but inside a grey box, with a light grey background and black text.
+
+* The fonts used were from google fonts with the font familys roboto and new tegomin as i feel the new tegomin font style fits very well for the zombie theme approach of the game and the roboto balances it out so that the games font and text in general doesnt look to takky at all.
+
+* All images used for the game was taken from google search as i needed the specific images related to the theme of the game.
