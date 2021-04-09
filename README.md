@@ -25,3 +25,11 @@
 * The game will include 16 cards with a pair for each 8 images included in the game for the player to match, if the player gets an incorrect match then the cards flip over, but if they get a correct match, an animation appaears and the images stay visible making it easier for the players to match other pairs further on during the game.
 
 * The player will be presented a congratulations message once they complete the game with feedback of how they did interms of time and moves used which will generate a score, the player will also be given an option to play again through clicking a play again button.
+
+## Future Features
+
+* A fututre feature that i would like to add is probably somesort of leaderboard with the best times taken to complete the game aswell as amount of moves taken, that way players will feel more motivated to play and carry on to compete with the top spot
+
+* Another future feature that i would also like to implement is different types of games to the sight (not just a memory game) so that if the user feels they wnat a differnt game to play they have the option there to keep them even more engaged with the site
+
+
