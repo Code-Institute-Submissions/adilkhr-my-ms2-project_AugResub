@@ -41,3 +41,12 @@
 * The fonts used were from google fonts with the font familys roboto and new tegomin as i feel the new tegomin font style fits very well for the zombie theme approach of the game and the roboto balances it out so that the games font and text in general doesnt look to takky at all.
 
 * All images used for the game was taken from google search as i needed the specific images related to the theme of the game.
+
+
+## Wireframes
+
+* Below you can view the dekstop wireframe for the memory game:
+![desktop](https://github.com/adilkhr/my-ms2-project/blob/master/wireframes/wire%20frames%20for%20ms2%20desktop.pdf)
+
+* Below you can view the mobile wireframe for the memory game:
+![phone](https://github.com/adilkhr/my-ms2-project/blob/master/wireframes/wire%20frames%20for%20ms2%20mobile.pdf)
