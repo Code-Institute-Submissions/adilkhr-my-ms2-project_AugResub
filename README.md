@@ -45,8 +45,8 @@
 
 ## Wireframes
 
-* Below you can view the dekstop wireframe for the memory game:
+* You can view the dekstop wireframe for the memory game here:
 ![desktop](https://github.com/adilkhr/my-ms2-project/blob/master/wireframes/wire%20frames%20for%20ms2%20desktop.pdf)
 
-* Below you can view the mobile wireframe for the memory game:
+* You can view the mobile wireframe for the memory game here:
 ![phone](https://github.com/adilkhr/my-ms2-project/blob/master/wireframes/wire%20frames%20for%20ms2%20mobile.pdf)
