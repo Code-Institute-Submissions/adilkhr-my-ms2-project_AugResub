@@ -171,3 +171,64 @@ p.stats:last-child {
     margin-bottom: 1em;
     font-family: 'Roboto', serif;
 }
+
+/*--Deck of Cards--*/
+
+/*Mobile first responsivness*/
+.deck {
+    background: linear-gradient(to bottom, #595959, #1a1a1a);
+    border-radius: 1.5em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    height: 35em;
+    margin-bottom: 6em;
+    padding: 0.5em;
+    width: 35em;
+}
+
+.deck,
+.card {
+    box-shadow: 5px 2px 20px 0 rgba(46, 61, 73, 0.5);
+}
+
+.card {
+    background: #660000;
+    border-radius: 0.5em;
+    height: 7em;
+    width: 7em;
+}
+
+img {
+    user-select: none;
+    width: 6em;
+}
+
+.deck img {
+    visibility: hidden;
+}
+
+.deck .card.flip {
+    background: #fff;
+    cursor: default;
+    transform: rotateY(180deg);
+    transition: transform 0.3s linear;
+    pointer-events: none;
+}
+
+.flip img {
+    background: #fff;
+    visibility: visible;
+}
+
+.deck .card.match {
+    background: #333333;
+    visibility: visible;
+    cursor: default;
+    animation: pulse 1s;
+}
+
+.match img {
+    background: #333333;
+}
