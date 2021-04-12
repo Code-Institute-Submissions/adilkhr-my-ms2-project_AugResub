@@ -42,3 +42,9 @@ function startGame() {
     }
 }
 startGame();
+
+function removeCard() {
+    while (deck.hasChildNodes()) {
+        deck.removeChild(deck.firstChild);
+    }
+}
