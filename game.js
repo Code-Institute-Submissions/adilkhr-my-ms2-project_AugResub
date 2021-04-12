@@ -28,3 +28,17 @@ function shuffle(array) {
     }
     return array;
 }
+
+function startGame() {
+    const shuffledDeck = shuffle(deckCards);
+    for (let i = 0; i < shuffledDeck.length; i++) {
+        const liTag = document.createElement('LI');
+        liTag.classList.add('card');
+        const addImage = document.createElement("IMG");
+        liTag.appendChild(addImage);
+        addImage.setAttribute("src", "img/" + shuffledDeck[i]);
+        addImage.setAttribute("alt", "image of COD perks");
+        deck.appendChild(liTag);
+    }
+}
+startGame();
