@@ -63,3 +63,20 @@ function timer() {
 function stopTime() {
     clearInterval(time);
 }
+
+function resetEverything() {
+    stopTime();
+    timeStart = false;
+    seconds = 0;
+    minutes = 0;
+    timeCounter.innerHTML = "<i class='fa fa-hourglass-start'></i>" + " Timer: 00:00";
+    star[1].firstElementChild.classList.add("fa-star");
+    star[2].firstElementChild.classList.add("fa-star");
+    starCount = 3;
+    moves = 0;
+    movesCount.innerHTML = 0;
+    matched = [];
+    opened = [];
+    removeCard();
+    startGame();
+}
