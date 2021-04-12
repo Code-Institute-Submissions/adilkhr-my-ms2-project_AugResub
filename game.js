@@ -80,3 +80,8 @@ function resetEverything() {
     removeCard();
     startGame();
 }
+
+function movesCounter() {
+    movesCount.innerHTML++;
+    moves++;
+}
