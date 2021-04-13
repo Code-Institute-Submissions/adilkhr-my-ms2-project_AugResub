@@ -146,3 +146,16 @@ function AddStats() {
     p[1].innerHTML = "Moves Taken: " + moves;
     p[2].innerHTML = "Your Star Rating is: " + starCount + " out of 3";
 }
+
+function displayModal() {
+    const modalClose = document.getElementsByClassName("close")[0];
+    modal.style.display = "block";
+    modalClose.onclick = function () {
+        modal.style.display = "none";
+    };
+    window.onclick = function (event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    };
+}
