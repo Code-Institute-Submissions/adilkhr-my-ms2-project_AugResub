@@ -96,3 +96,16 @@ function starRating() {
         starCount--;
     }
 }
+
+function compareTwo() {
+    if (opened.length === 2) {
+        document.body.style.pointerEvents = "none";
+    }
+    if (opened.length === 2 && opened[0].src === opened[1].src) {
+        match();
+        console.log("It's a Match!");
+    } else if (opened.length === 2 && opened[0].src != opened[1].src) {
+        noMatch();
+        console.log("NO Match!");
+    }
+}
