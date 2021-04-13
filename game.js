@@ -36,7 +36,7 @@ function startGame() {
         liTag.classList.add('card');
         const addImage = document.createElement("IMG");
         liTag.appendChild(addImage);
-        addImage.setAttribute("src", "img/" + shuffledDeck[i]);
+        addImage.setAttribute("src", "assets/img/" + shuffledDeck[i]);
         addImage.setAttribute("alt", "image of COD perks");
         deck.appendChild(liTag);
     }
@@ -189,4 +189,11 @@ deck.addEventListener("click", function (evt) {
         }
         compareTwo();
     }
+});
+
+reset.addEventListener('click', resetEverything);
+
+playAgain.addEventListener('click', function () {
+    modal.style.display = "none";
+    resetEverything();
 });
