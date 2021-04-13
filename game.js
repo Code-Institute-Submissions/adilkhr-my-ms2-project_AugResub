@@ -133,3 +133,16 @@ function noMatch() {
     movesCounter();
     starRating();
 }
+
+function AddStats() {
+    const stats = document.querySelector(".modal-content");
+    for (let i = 1; i <= 3; i++) {
+        const statsElement = document.createElement("p");
+        statsElement.classList.add("stats");
+        stats.appendChild(statsElement);
+    }
+    let p = stats.querySelectorAll("p.stats");
+    p[0].innerHTML = "Time to complete: " + minutes + " Minutes and " + seconds + " Seconds";
+    p[1].innerHTML = "Moves Taken: " + moves;
+    p[2].innerHTML = "Your Star Rating is: " + starCount + " out of 3";
+}
