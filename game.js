@@ -122,3 +122,14 @@ function match() {
     movesCounter();
     starRating();
 }
+
+function noMatch() {
+    setTimeout(function () {
+        opened[0].parentElement.classList.remove("flip");
+        opened[1].parentElement.classList.remove("flip");
+        document.body.style.pointerEvents = "auto";
+        opened = [];
+    }, 700);
+    movesCounter();
+    starRating();
+}
