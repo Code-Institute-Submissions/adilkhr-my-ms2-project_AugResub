@@ -50,3 +50,7 @@
 
 * You can view the mobile wireframe for the memory game here:
 ![phone](https://github.com/adilkhr/my-ms2-project/blob/master/wireframes/wire%20frames%20for%20ms2%20mobile.pdf)
+
+## Technology
+
+* The Technology i have used to create this project are HTML to add the core content of the game, CSS to style the content of the game, Javascript to esnure the game runs and functions as intended to, aswell as using google Fonts to get the specific font styles needed, fontawesome to use font awesome icons for the game, Balsamiq wireframes to create the wire frames for the game, Github to create the code of the game aswel as using github do deploy the github pages.
