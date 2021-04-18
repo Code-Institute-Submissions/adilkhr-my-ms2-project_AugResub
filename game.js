@@ -11,7 +11,7 @@ let moves = 0;
 const star = document.getElementById("star-rating").querySelectorAll(".star");
 let starCount = 3;
 const timeCounter = document.querySelector(".timer");
-let time;
+let time = null
 let minutes = 0;
 let seconds = 0;
 let timeStart = false;
