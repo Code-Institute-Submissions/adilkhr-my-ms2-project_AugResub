@@ -151,6 +151,8 @@ h3 {
     cursor: pointer;
 }
 
+/*Mobile first responsivness*/
+
 /* Modal Image*/
 .modal-img {
     display: inline-block;
@@ -159,7 +161,7 @@ h3 {
 }
 
 p.stats {
-    font-weight: 600;
+    font-weight: 400;
 }
 
 p.stats:last-child {
@@ -174,7 +176,6 @@ p.stats:last-child {
 
 /*--Deck of Cards--*/
 
-/*Mobile first responsivness*/
 .deck {
     background: linear-gradient(to bottom, #595959, #1a1a1a);
     border-radius: 1.5em;
@@ -182,10 +183,10 @@ p.stats:last-child {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-    height: 27em;
+    height: 25em;
     margin-bottom: 6em;
     padding: 0.5em;
-    width: 27em;
+    width: 25em;
 }
 
 .deck,
@@ -196,13 +197,13 @@ p.stats:last-child {
 .card {
     background: #660000;
     border-radius: 0.5em;
-    height: 5.5em;
-    width: 5.5em;
+    height: 5em;
+    width: 5em;
 }
 
 img {
     user-select: none;
-    width: 4.5em;
+    width: 4em;
 }
 
 .deck img {
@@ -273,6 +274,32 @@ img {
         height: 7em;
         width: 7em;
     }
+
+    img {
+        user-select: none;
+        width: 6em;
+    }
+
+    .modal-img {
+        display: inline-block;
+        margin: 1em 0 1em;
+        width: 20em;
+    }
+
+    p.stats {
+        font-weight: 600;
+    }
+
+    p.stats:last-child {
+        margin-bottom: 1em;
+    }
+
+    .play-again-btn {
+        background: #1a1a1a;
+        margin-bottom: 1em;
+        font-family: 'Roboto', serif;
+    }
+
 }
 
 @media screen and (min-width: 550px) {
