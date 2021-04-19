@@ -182,10 +182,10 @@ p.stats:last-child {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-    height: 35em;
+    height: 27em;
     margin-bottom: 6em;
     padding: 0.5em;
-    width: 35em;
+    width: 27em;
 }
 
 .deck,
@@ -196,13 +196,13 @@ p.stats:last-child {
 .card {
     background: #660000;
     border-radius: 0.5em;
-    height: 7em;
-    width: 7em;
+    height: 5.5em;
+    width: 5.5em;
 }
 
 img {
     user-select: none;
-    width: 6em;
+    width: 4.5em;
 }
 
 .deck img {
@@ -244,6 +244,34 @@ img {
 
     100% {
         transform: scale(1);
+    }
+}
+
+@media screen and (min-width: 375px) {
+
+    .deck {
+        background: linear-gradient(to bottom, #595959, #1a1a1a);
+        border-radius: 1.5em;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+        height: 35em;
+        margin-bottom: 6em;
+        padding: 0.5em;
+        width: 35em;
+    }
+
+    .deck,
+    .card {
+        box-shadow: 5px 2px 20px 0 rgba(46, 61, 73, 0.5);
+    }
+
+    .card {
+        background: #660000;
+        border-radius: 0.5em;
+        height: 7em;
+        width: 7em;
     }
 }
 
