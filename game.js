@@ -41,7 +41,7 @@ function startGame() {
         deck.appendChild(liTag);
     }
 }
-startGame();
+document.onload = startGame();
 
 function removeCard() {
     while (deck.hasChildNodes()) {
