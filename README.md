@@ -54,3 +54,19 @@
 ## Technology
 
 * The Technology i have used to create this project are HTML to add the core content of the game, CSS to style the content of the game, Javascript to esnure the game runs and functions as intended to, aswell as using google Fonts to get the specific font styles needed, fontawesome to use font awesome icons for the game, Balsamiq wireframes to create the wire frames for the game, Github to create the code of the game aswel as using github do deploy the github pages.
+
+## Testing
+
+### Code validation:
+
+### Test Cases:
+
+### Fixed Bugs:
+
+## Deployment
+
+### via gitpod:
+
+### via github pages:
+
+## Credits
