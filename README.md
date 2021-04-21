@@ -10,9 +10,9 @@
 
 * As a first time visitor, i want to easily understand what type of game it is that i am playing and what the aim of the game is with a clear instruction of the game present. I also want to know my progress of how i am doing in the game and when i complete it, i am presented with feed back of how i done in the game with an option to play again.
 
-### Existing User goals:
+### Visting User goals:
 
-* As an existing user to the game, i want to keep practicsing the game and understand how long it takes for me to complete, aswell as how many attempts i need to end up completing the game that way i can test how good my memory is.
+* As a visiting user to the game, i want to keep practicsing the game and understand how long it takes for me to complete, aswell as how many attempts i need to end up completing the game that way i can test how good my memory is.
 
 ## Features
 
@@ -31,6 +31,8 @@
 * A fututre feature that i would like to add is probably somesort of leaderboard with the best times taken to complete the game aswell as amount of moves taken, that way players will feel more motivated to play and carry on to compete with the top spot
 
 * Another future feature that i would also like to implement is different types of games to the sight (not just a memory game) so that if the user feels they wnat a differnt game to play they have the option there to keep them even more engaged with the site
+
+* Another future feature that would be a good feature is to apply a countdown timer when the user starts the game as this would apply the user a slight sense of pressure to complete the game before the countdown ends making them feel more engaged into the game
 
 ## Typography and color scheme
 
@@ -53,7 +55,13 @@
 
 ## Technology
 
-* The Technology i have used to create this project are HTML to add the core content of the game, CSS to style the content of the game, Javascript to esnure the game runs and functions as intended to, aswell as using google Fonts to get the specific font styles needed, fontawesome to use font awesome icons for the game, Balsamiq wireframes to create the wire frames for the game, Github to create the code of the game aswel as using github do deploy the github pages.
+* The Languages i have used to create this project are HTML to add the core content of the game, CSS to style the content of the game and Javascript to esnure the game runs and functions as intended to 
+
+* I have also used google Fonts to get the specific font styles needed, fontawesome to use font awesome icons for the game 
+
+* I have also used Balsamiq wireframes to create the wire frames for the game 
+
+* I have also used Github to create the code of the game aswell as using github do deploy the github pages
 
 ## Testing
 
