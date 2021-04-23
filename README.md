@@ -67,15 +67,21 @@
 
 ### Code validation:
 
-* When completing my HTML code, I had then inputed the code through w3schools validator and found that there was no errors in the code
+* When completing my HTML code, I had then inputed the code through w3schools validator (https://validator.w3.org/) and found that there was no errors in the code
 
-* When completing my CSS code, I had then inputed the code through w3schools validator and selected the CSS option and found that again just like the HTML code there was no errors in the code
+* When completing my CSS code, I had then inputed the code through w3schools validator (https://validator.w3.org/) and selected the CSS option and found that again just like the HTML code there was no errors in the code
 
-* When completing my Javascript code, I had then inputed the code through JShint.com to ensure there was no erros in the Javascript, it turns out there was no errors in the code
+* When completing my Javascript code, I had then inputed the code through the Javascript validator (https://jshint.com/) to ensure there was no erros in the Javascript code, it turns out there was no errors in the code
 
 ### Test Cases:
 
 ### Fixed Bugs:
+
+* A major bug i was experiencing when creating my project was that i had found out that my game was not responsive for a lot of smaller screen devices such as the galaxy fold, so i then added some media queries to adjust the sizing issue of the card deck pannel for screens that had small widths
+
+### Supported screens and browsers:
+
+* When viewing the page through browser i used the google chrome inspect tool to see if the game is responsive for all screens, and with the use of media queries to adjust the size of the deck pannel and cards for different screens widths, the site is responsive for all screens and devices and supports browsers
 
 ## Deployment
 
