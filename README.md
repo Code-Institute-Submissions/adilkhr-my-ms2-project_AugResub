@@ -67,6 +67,12 @@
 
 ### Code validation:
 
+* When completing my HTML code, I had then inputed the code through w3schools validator and found that there was no errors in the code
+
+* When completing my CSS code, I had then inputed the code through w3schools validator and selected the CSS option and found that again just like the HTML code there was no errors in the code
+
+* When completing my Javascript code, I had then inputed the code through JShint.com to ensure there was no erros in the Javascript, it turns out there was no errors in the code
+
 ### Test Cases:
 
 ### Fixed Bugs:
