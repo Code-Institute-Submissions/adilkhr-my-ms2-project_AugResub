@@ -8,11 +8,11 @@
 
 ### First time visitor goals:
 
-* As a first time visitor, i want to easily understand what type of game it is that i am playing and what the aim of the game is with a clear instruction of the game present. I also want to know my progress of how i am doing in the game and when i complete it, i am presented with feed back of how i done in the game with an option to play again.
+* As a first time visitor, i want to easily understand what type of game it is that i am playing and what the aim of the game is with a clear instruction of the game present. I also want to know my progress of how i am doing in the game and when i complete it, i am presented with feed back of how i done in the game with an option to play the game again.
 
 ### Visting User goals:
 
-* As a visiting user to the game, i want to keep practicsing the game and understand how long it takes for me to complete, aswell as how many attempts i need to end up completing the game that way i can test how good my memory is.
+* As a visiting user to the game, i want to keep practicsing the game and understand how long it takes for me to complete, aswell as how many attempts i need to end up completing the game that way i can test how good my memory is. By using the reset button i can keep practisicing to perfect the amount of moves required to get the highest score star rating.
 
 ## Features
 
@@ -75,9 +75,13 @@
 
 ### Test Cases:
 
+* In regards to test cases and seeing if the project meeters the user stories, here is a screenshot of the game and how it is presented when loaded up on screen 
+
 ### Fixed Bugs:
 
 * A major bug i was experiencing when creating my project was that i had found out that my game was not responsive for a lot of smaller screen devices such as the galaxy fold, so i then added some media queries to adjust the sizing issue of the card deck pannel for screens that had small widths
+
+* Another bug i was experiencing was when viewing the page through the python3 -mhttp.server comand in the terminal, the site was not showing as this is because i realised i had called the html file game.html, which i then changed it to index.html so that it views properly
 
 ### Supported screens and browsers:
 
