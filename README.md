@@ -93,8 +93,6 @@
 
 ## Deployment
 
-### via gitpod:
-
-### via github pages:
+The deployment process of my project was simple, when creating my html page through gitpod i had made sure that i had added the file and then git commit it with a message then done a git push, once that was done iensured that i had deployed the github pages by going on the github pages section and changed the source branch to master so that the site would be live and published giving me the live sight URL. I had ensured that git commit adds and git commit messages were done regurlaly and nessecary with relevant comments and then pushed out with the git push comand through git pod
 
 ## Credits
