@@ -93,6 +93,16 @@
 
 ## Deployment
 
-The deployment process of my project was simple, when creating my html page through gitpod i had made sure that i had added the file and then git commit it with a message then done a git push, once that was done iensured that i had deployed the github pages by going on the github pages section and changed the source branch to master so that the site would be live and published giving me the live sight URL. I had ensured that git commit adds and git commit messages were done regurlaly and nessecary with relevant comments and then pushed out with the git push comand through git pod
+The deployment process of my project was simple, when creating my html page through gitpod i had made sure that i had added the file and then git commit it with a message then done a git push, once that was done i ensured that i had deployed the github pages by going on the github pages section and changing the source branch to master so that the site would be live and published giving me the live sight URL. I had ensured that git commit adds and git commit messages were done regurlaly and nessecary with relevant comments and then pushed out with the git push comand through git pod
 
 ## Credits
+
+* All images used for the game were found and taken via https://images.google.co.uk/
+
+* Slack provided me with a lot of help and information when needed
+
+* The w3school sight (https://www.w3schools.com/js/DEFAULT.asp) provided me with a lot of help and understanding with javascript when i had some uncertainty to it
+
+* Although tutor support werent able to resolve my issue that i had with responsiveness due to  me being unavailable when they had contacted me, i was able to resolve the issue myself but they were very friendly and supoortive with troubleshooting
+
+* Youtube provided me with alot of understanding and help on how to build my game and how to function it with javascript to recieve a better understanding on how to build a memory game as i found these videos very useful, (https://www.youtube.com/watch?v=bbb9dZotsOc) (https://www.youtube.com/watch?v=ZniVgo8U7ek)
