@@ -93,7 +93,55 @@
 
 ## Deployment
 
-The deployment process of my project was simple, when creating my html page through gitpod i had made sure that i had added the file and then git commit it with a message then done a git push, once that was done i ensured that i had deployed the github pages by going on the github pages section and changing the source branch to master so that the site would be live and published giving me the live sight URL. I had ensured that git commit adds and git commit messages were done regurlaly and nessecary with relevant comments and then pushed out with the git push comand through git pod
+### Github pages:
+
+The deployment process of my project was done using the following steps:
+
+1. Log in to GitHub and locate the GitHub Repository of the project currently working on.
+
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+
+5. The page will automatically refresh.
+
+6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+
+### Forking the GitHub Repository:
+
+By forking the GitHub Repository you will be able to make a copy of the original repository on your own GitHub account allowing you to view and/or make changes without affecting the original repository by using the following steps:
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+
+7. Press Enter. Your local clone will be created.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+
+***
 
 ## Credits
 
