@@ -1,4 +1,10 @@
-# Milestone project 2: Building a memory game
+# Milestone project 2: Building a memory game: COD Zombies perks edition
+
+![Main Mockup](README-files/mockupimggame.png)
+
+[Link to Live Website](https://adilkhr.github.io/my-ms2-project/)
+
+[GitHub Repo](https://github.com/adilkhr/my-ms2-project)
 
 ## The purpose of the project
 
