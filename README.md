@@ -12,15 +12,39 @@
 
 * To create an easy and responsive memory game using HTML, CSS and Javascript for users to engage and test themselves to see how good their memory is so that they can improve further by replaying again.
 
-## User stories
+***
 
-### First time visitor goals:
+## User Experience (UX)
 
-* As a first time visitor, i want to easily understand what type of game it is that i am playing and what the aim of the game is with a clear instruction of the game present. I also want to know my progress of how i am doing in the game and when i complete it, i am presented with feed back of how i done in the game with an option to play the game again.
+## Strategy
 
-### Visting User goals:
+### User stories
 
-* As a visiting user to the game, i want to keep practicsing the game and understand how long it takes for me to complete, aswell as how many attempts i need to end up completing the game that way i can test how good my memory is. By using the reset button i can keep practisicing to perfect the amount of moves required to get the highest score star rating.
+#### First time visitor goals:
+
+As a new user:
+
+* As a first time visitor, I want to easily understand what type of game it is that I am playing and what the aim of the game is with a clear instruction of the game present. I also want to know my progress of how I am doing in the game and when I complete it, I am presented with feed back of how I done in the game with an option to play the game again.
+
+#### Visting User goals:
+
+* As a visiting user to the game, I want to keep practicsing the game and understand how long it takes for me to complete, aswell as how many attempts I need to end up completing the game that way I can test how good my memory is. By using the reset button I can keep practisicing to perfect the amount of moves required to get the highest score star rating.
+
+#### Reasons for the website:
+
+***
+
+## Scope
+
+#### What a user may expect:
+
+#### What a user may want:
+
+#### As a developer / business I expect:
+
+***
+
+## Structure
 
 ## Features
 
@@ -34,26 +58,21 @@
 
 * The player will be presented a congratulations message once they complete the game with feedback of how they did interms of time and moves used which will generate a score, the player will also be given an option to play again through clicking a play again button.
 
+***
+
 ## Future Features
 
-* A fututre feature that i would like to add is probably somesort of leaderboard with the best times taken to complete the game aswell as amount of moves taken, that way players will feel more motivated to play and carry on to compete with the top spot
+* A fututre feature that I would like to add is probably somesort of leaderboard with the best times taken to complete the game aswell as amount of moves taken, that way players will feel more motivated to play and carry on to compete with the top spot
 
-* Another future feature that i would also like to implement is different types of games to the sight (not just a memory game) so that if the user feels they wnat a differnt game to play they have the option there to keep them even more engaged with the site
+* Another future feature that I would also like to implement is different types of games to the sight (not just a memory game) so that if the user feels they wnat a differnt game to play they have the option there to keep them even more engaged with the site
 
 * Another future feature that would be a good feature is to apply a countdown timer when the user starts the game as this would apply the user a slight sense of pressure to complete the game before the countdown ends making them feel more engaged into the game
 
-## Typography and color scheme
+***
 
-* The theme of the game was actually taken from a game i enjoy myself which is from call of duty and their zombies game mode so i thought of a way to implement the theme into the game through the use of relevant images of the game aswell as a specific color scheme.
+## Skeleton
 
-* The three main colours involved with my project are black, grey and red, as my game is based on a zombie themed game from call of duty which im aware people are familiar with so i have added the color red to the cards but inside a grey box, with a light grey background and black text.
-
-* The fonts used were from google fonts with the font familys roboto and new tegomin as i feel the new tegomin font style fits very well for the zombie theme approach of the game and the roboto balances it out so that the games font and text in general doesnt look to takky at all.
-
-* All images used for the game was taken from google search as i needed the specific images related to the theme of the game.
-
-
-## Wireframes
+### Wireframes:
 
 * You can view the dekstop wireframe for the memory game here:
 (https://github.com/adilkhr/my-ms2-project/blob/master/wireframes/wire%20frames%20for%20ms2%20desktop.pdf)
@@ -61,9 +80,25 @@
 * You can view the mobile wireframe for the memory game here:
 (https://github.com/adilkhr/my-ms2-project/blob/master/wireframes/wire%20frames%20for%20ms2%20mobile.pdf)
 
+### Mockup:
+
+***
+
+## Typography and color scheme
+
+* The theme of the game was actually taken from a game I enjoy myself which is from call of duty and their zombies game mode so I thought of a way to implement the theme into the game through the use of relevant images of the game aswell as a specific color scheme.
+
+* The three main colours involved with my project are black, grey and red, as my game is based on a zombie themed game from call of duty which im aware people are familiar with so I have added the color red to the cards but inside a grey box, with a light grey background and black text.
+
+* The fonts used were from google fonts with the font familys roboto and new tegomin as I feel the new tegomin font style fits very well for the zombie theme approach of the game and the roboto balances it out so that the games font and text in general doesnt look to takky at all.
+
+* All images used for the game was taken from google search as I needed the specific images related to the theme of the game.
+
+***
+
 ## Technology
 
-* The Languages i have used to create this project are HTML to add the core content of the game, CSS to style the content of the game and Javascript to esnure the game runs and functions as intended to 
+* The Languages I have used to create this project are HTML to add the core content of the game, CSS to style the content of the game and Javascript to esnure the game runs and functions as intended to 
 
 * I have also used google Fonts to get the specific font styles needed, fontawesome to use font awesome icons for the game 
 
@@ -71,7 +106,17 @@
 
 * I have also used Github to create the code of the game aswell as using github do deploy the github pages
 
+***
+
 ## Testing
+
+### Supported screens:
+
+### Supported browsers:
+
+### OS compatibility:
+
+### Peformance Testing:
 
 ### Code validation:
 
@@ -81,7 +126,7 @@
 
 * When completing my Javascript code, I had then inputed the code through the Javascript validator (https://jshint.com/) to ensure there was no erros in the Javascript code, it turns out there was no errors in the code
 
-### Test Cases:
+### Test User Stories:
 
 * In regards to test cases and seeing if the project meeters the user stories, here is a screenshot of the game and how it is presented when loaded up on screen (https://github.com/adilkhr/my-ms2-project/blob/master/testing/gamescreen.png)
 
@@ -91,13 +136,15 @@
 
 ### Fixed Bugs:
 
-* A major bug i was experiencing when creating my project was that i had found out that my game was not responsive for a lot of smaller screen devices such as the galaxy fold, so i then added some media queries to adjust the sizing issue of the card deck pannel for screens that had small widths
+* A major bug I was experiencing when creating my project was that I had found out that my game was not responsive for a lot of smaller screen devices such as the galaxy fold, so I then added some media queries to adjust the sizing issue of the card deck pannel for screens that had small widths
 
-* Another bug i was experiencing was when viewing the page through the python3 -mhttp.server comand in the terminal, the site was not showing as this is because i realised i had called the html file game.html, which i then changed it to index.html so that it views properly
+* Another bug I was experiencing was when viewing the page through the python3 -mhttp.server comand in the terminal, the site was not showing as this is because I realised I had called the html file game.html, which I then changed it to index.html so that it views properly
 
 ### Supported screens and browsers:
 
-* When viewing the page through browser i used the google chrome inspect tool to see if the game is responsive for all screens, and with the use of media queries to adjust the size of the deck pannel and cards for different screens widths, the site is responsive for all screens and devices and supports browsers
+* When viewing the page through browser I used the google chrome inspect tool to see if the game is responsive for all screens, and with the use of media queries to adjust the size of the deck pannel and cards for different screens widths, the site is responsive for all screens and devices and supports browsers
+
+***
 
 ## Deployment
 
@@ -157,8 +204,8 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 * Slack provided me with a lot of help and information when needed
 
-* The w3school sight (https://www.w3schools.com/js/DEFAULT.asp) provided me with a lot of help and understanding with javascript when i had some uncertainty to it
+* The w3school sight (https://www.w3schools.com/js/DEFAULT.asp) provided me with a lot of help and understanding with javascript when I had some uncertainty to it
 
-* Although tutor support werent able to resolve my issue that i had with responsiveness due to  me being unavailable when they had contacted me, i was able to resolve the issue myself but they were very friendly and supoortive with troubleshooting
+* Although tutor support werent able to resolve my issue that I had with responsiveness due to  me being unavailable when they had contacted me, I was able to resolve the issue myself but they were very friendly and supoortive with troubleshooting
 
-* Youtube provided me with alot of understanding and help on how to build my game and how to function it with javascript to recieve a better understanding on how to build a memory game as i found these videos very useful, (https://www.youtube.com/watch?v=bbb9dZotsOc) (https://www.youtube.com/watch?v=ZniVgo8U7ek)
+* Youtube provided me with alot of understanding and help on how to build my game and how to function it with javascript to recieve a better understanding on how to build a memory game as I found these videos very useful, (https://www.youtube.com/watch?v=bbb9dZotsOc) (https://www.youtube.com/watch?v=ZniVgo8U7ek)
