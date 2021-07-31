@@ -74,13 +74,17 @@ As a new user:
 
 ### Wireframes:
 
-* You can view the dekstop wireframe for the memory game here:
-(https://github.com/adilkhr/my-ms2-project/blob/master/wireframes/wire%20frames%20for%20ms2%20desktop.pdf)
+* You can view the dekstop wireframe for the memory game [here](https://github.com/adilkhr/my-ms2-project/blob/master/wireframes/wireframesforms2desktop.pdf)
 
-* You can view the mobile wireframe for the memory game here:
-(https://github.com/adilkhr/my-ms2-project/blob/master/wireframes/wire%20frames%20for%20ms2%20mobile.pdf)
+* You can view the mobile wireframe for the memory game [here](https://github.com/adilkhr/my-ms2-project/blob/master/wireframes/wireframesforms2mobile.pdf)
 
 ### Mockup:
+
+![Cards Mockup](README-files/mockupcards.png)
+
+![Perk images Mockup](README-files/mockupperks.png)
+
+![Win Mockup](README-files/mockupwin.png)
 
 ***
 
