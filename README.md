@@ -42,6 +42,8 @@ As a new user:
 
 * I want to restart my current game if i am currnetly not happy with it
 
+* I want a game that is fully functional alongside being responsive on any device
+
 #### Reasons for the website:
 
 * To allow players to test their memory
@@ -70,7 +72,7 @@ As a new user:
 
 #### What a user may want:
 
-* A timer to show how long it takes for them to complete the game
+* A timer to show how long it takes them to complete the game
 
 * Clear instructions of the game and what the aim of the game is
 
@@ -102,21 +104,21 @@ The site will consist of 1 main page which will have all the information provide
 
 ## Features
 
-* A clear title of the game aswell as a clear instruction of what the aim of the game is.
+* A clear title of the game aswell as a clear instruction of what the aim of the game is
 
-* A score pannel of how well they are doing during the progression of the game aswell as a move counter to show how many moves they are using.
+* A score pannel of how well they are doing during the progression of the game aswell as a move counter to show how many moves they are using
 
-* A timer when the player begins the game so they are aware of how long it takes them to complete aswell as reset button if the user feels they want to restart the game.
+* A timer when the player begins the game so they are aware of how long it takes them to complete aswell as a reset button if the user feels they want to restart the game
 
-* The game will include 16 cards with a pair for each 8 images included in the game for the player to match, if the player gets an incorrect match then the cards flip over, but if they get a correct match, an animation appears and the images stay visible making it easier for the players to match other pairs further on during the game.
+* The game will include 16 cards with a pair for each 8 images included in the game for the player to match, if the player gets an incorrect match then the cards flip over, but if they get a correct match, an animation appears and the images stay visible making it easier for the players to match other pairs further on during the game
 
-* The player will be presented a well done message once they complete the game with feedback of how they did interms of time and moves used which will generate a score, the player will also be given an option to play again through clicking a play again button.
+* The player will be presented a well done message once they complete the game with feedback of how they did interms of time and moves used which will generate a score, the player will also be given an option to play again through clicking a play again button
 
 ***
 
 ## Future Features
 
-* A fututre feature that I would like to add is probably somesort of leaderboard with the best times taken to complete the game aswell as amount of moves taken, that way players will feel more motivated to play and carry on to compete for the top spot
+* A future feature that I would like to add is probably some sort of leaderboard with the best times taken to complete the game aswell as amount of moves taken, that way players will feel more motivated to play and carry on to compete for the top spot
 
 * Another future feature that I would like to implement is different types of games to the site (not just a memory game) so that if the user feels they want a differnt game to play they have the option there, to keep them more engaged with the site
 
@@ -144,13 +146,13 @@ The site will consist of 1 main page which will have all the information provide
 
 ## Typography and color scheme
 
-* The theme of the game was actually taken from a game I enjoy myself which is from call of duty and their zombies game mode so I thought of a way to implement the theme into the game through the use of relevant images of the game aswell as a specific color scheme.
+* The theme of the game was actually taken from a game I enjoy myself which is from call of duty and their zombies game mode so I thought of a way to implement the theme into the game through the use of relevant images of the game aswell as a specific color scheme
 
-* The three main colours involved with my project are black, grey and red, as my game is based on a zombie themed game from call of duty which im aware people are familiar with so I have added the color red to the cards but inside a grey box, with a light grey background and black text.
+* The three main colours involved with my project are black, grey and red, as my game is based on a zombie themed game from call of duty which i am aware people are familiar with so I have added the color red to the cards but inside a grey box, with a light grey background and black text
 
-* The fonts used were from google fonts with the font familys roboto and new tegomin as I feel the new tegomin font style fits very well for the zombie theme approach of the game and the roboto balances it out so that the games font and text in general doesnt look to takky at all.
+* The fonts used were from google fonts with the font familys roboto and new tegomin as I feel the new tegomin font style fits very well for the zombie theme approach of the game and the roboto balances it out so that the games font and text in general doesnt look to takky at all
 
-* All images used for the game was taken from google search as I needed the specific images related to the theme of the game.
+* All images used for the game was taken from google search as I needed the specific images related to the theme of the game
 
 ***
 
@@ -203,17 +205,54 @@ Tested on the Developer Tools Lighthouse.
 
 * When completing my Javascript code, I had then inputed the code through the [Javascript validator (JS hint)](https://jshint.com/) to ensure there was no erros in the Javascript code, it turns out there was no errors in the code
 
-### Test User Stories:
+### Test User Stories
 
-* In regards to test cases and seeing if the project meeters the user stories, here is a screenshot of the game and how it is presented when loaded up on screen
+### First time users
 
-* When the user gradually starts to match more cards it will end up being easier for them to complete the game and use less moves to match which this will affect their score/star rating, for visiting users the reset option is avaiable if they want to reset the game and start again if they feel that they have used to many moves which would have affected their score here is a screenshot of how it the game looks when in action 
+* #### I want to easily understand what type of game it is that I am playing and what the aim of the game is
 
-* When the user completed the game they are then presented with a well done message to congratulate them for completing it with feed back of how they did interms of time taken and moves used which calculates their final score rating, here is a screenshot of how it looks
+The name of the game is presented at the top of the page along with clear instuction on how to start and play
+![instructions](README-files/testinstructions.png)
+
+* #### I want to be presented with a positive message once i complete the game alongside with the progress of how i did
+
+Once the user matches all cards, they are presented with a well done message telling them they have found all 8 pairs of cards with a thumbs up image, they are also provided with the time taken to complete along with the moves taken to complete which then provides them with their star rating
+![Well done message](README-files/testwelldonemsge.png)
+
+### Visting Users
+
+* #### I want to see how long it takes me to complete the game so that i can keep improving my speed and memory
+
+A timer is presented on screen that starts counting up once the user clicks on a card
+![timer](README-files/testtimer.png)
+
+* #### I want to know what my score rating is so that i can aim to get the highest score rating possible
+
+A score panel is presented above the timer for users to see how well they are doing aswell as the amount of moves used
+
+![score panel](README-files/testscorepanel.png)
+
+* #### I want to restart my current game if i am currently not happy with it
+
+There is a reset button presented above the card panel for users to click allowing them to start fresh which will reset the cards positions, the timer and the score panel along with the amount of moves used
+![reset button](README-files/testresetbtn.png)
+
+### All Users
+
+* #### I want a game that is fully functional alongside being responsive on any device
+
+By using css media queries, the game is responsive and playable across all devices alongside with all buttons and functions working
+
+![Responsive](README-files/testresponsive.png)
+
+* #### I want to have the option to play again once i finish
+
+Once the user finishes the game and is presented with the well done message, there is a play again button which will allow users to play again
+![play again button](README-files/testplyagain.png)
 
 ### Fixed Bugs:
 
-* A major bug I was experiencing when creating my project was that I had found out that my game was not responsive for a lot of smaller screen devices such as the galaxy fold, so I then added some media queries to adjust the sizing issue of the card deck pannel for screens that had small widths
+* A major bug I was experiencing when creating my project was that my game was not responsive for a lot of smaller screen devices such as the galaxy fold, so I then added some media queries to adjust the sizing issue of the card deck pannel for screens that had small widths
 
 * Another bug I was experiencing was when viewing the page through the python3 -mhttp.server comand in the terminal, the site was not showing as this is because I realised I had called the html file game.html, which I then changed it to index.html so that it views properly
 
