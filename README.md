@@ -262,12 +262,30 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 ## Credits
 
-* All images used for the game were found and taken via https://images.google.co.uk/
+### Media:
+
+* All images used were taken from [google images](https://www.google.com/imghp?hl=en)
+
+### Acknowledgements:
+
+* Rohit Sharma (mentor support) - Provided me with help on how to structure the site and what should be the main focuses of the project
+
+* Matt Rudge - Template for Gitpod.io
+
+* Full Stack Developers WhatsApp group (members of the codeinstitute slack community) - for taking the time to test the website aswell as providing help when needed with issues
+
+* I had used the [Code institute sample read me template](https://github.com/Code-Institute-Solutions/SampleREADME) to structure my own readme
 
 * Slack provided me with a lot of help and information when needed
 
-* The w3school sight (https://www.w3schools.com/js/DEFAULT.asp) provided me with a lot of help and understanding with javascript when I had some uncertainty to it
+* The [w3schools](https://www.w3schools.com/js/DEFAULT.asp) provided me with a lot of help and understanding with javascript when I had some uncertainty to it
 
-* Although tutor support werent able to resolve my issue that I had with responsiveness due to  me being unavailable when they had contacted me, I was able to resolve the issue myself but they were very friendly and supoortive with troubleshooting
+* Although CI tutor support werent able to resolve my issue that I had with responsiveness due to me being unavailable when they had contacted me, I was able to resolve the issue myself but they were very friendly and supoortive with troubleshooting
+
+### Content:
+
+Code & Content (not already attributed): Adil Khair
+
+### Inspiration:
 
 * Youtube provided me with alot of understanding and help on how to build my game and how to function it with javascript to recieve a better understanding on how to build a memory game as I found these videos very useful, (https://www.youtube.com/watch?v=bbb9dZotsOc) (https://www.youtube.com/watch?v=ZniVgo8U7ek)
