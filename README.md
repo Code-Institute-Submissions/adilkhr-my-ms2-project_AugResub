@@ -24,13 +24,33 @@
 
 As a new user:
 
-* As a first time visitor, I want to easily understand what type of game it is that I am playing and what the aim of the game is with a clear instruction of the game present. I also want to know my progress of how I am doing in the game and when I complete it, I am presented with feed back of how I done in the game with an option to play the game again.
+* I want to easily understand what type of game it is that I am playing and what the aim of the game is
 
-#### Visting User goals:
+* I want a game that is fully functional alongside being responsive on any device
 
-* As a visiting user to the game, I want to keep practicsing the game and understand how long it takes for me to complete, aswell as how many attempts I need to end up completing the game that way I can test how good my memory is. By using the reset button I can keep practisicing to perfect the amount of moves required to get the highest score star rating.
+* I want to be presented with a positive message once i complete the game alongside with the progress of how i did
+
+* I want to have the option to play again once i finish
+
+#### Visiting User goals:
+
+* I want to have the option to play again once i finish
+
+* I want to see how long it takes me to complete the game so that i can keep improving my speed and memory
+
+* I want to know what my score rating is so that i can aim to get the highest score rating possible
+
+* I want to restart my current game if i am currnetly not happy with it
 
 #### Reasons for the website:
+
+* To allow players to test their memory
+
+* To showcase work
+
+* To bring in call of duty zombies gamers to try something fun thats related to the game they play
+
+* To create a game that i would enjoy playing myself
 
 ***
 
@@ -38,33 +58,67 @@ As a new user:
 
 #### What a user may expect:
 
+* Easy to navigate website
+
+* A game that is visually appealing on all devices
+
+* Links and functions/buttons working as expected
+
+* A game that is fair and simple for all ages 
+
+* A game that is fun to play
+
 #### What a user may want:
 
+* A timer to show how long it takes for them to complete the game
+
+* Clear instructions of the game and what the aim of the game is
+
+* A reset button to reset the game to start again if they are not happy with their current progress
+
+* A score panel indicating how well they are doing
+
+* A message to congratulate them once they complete the game showing them their time taken to complete aswell as their score rating
+
+* An option to play again once completed
+
 #### As a developer / business I expect:
+
+* To provide a clear objective of the game to users
+
+* To create a responsive card panel that functions when users click on them
+
+* To create a timer that starts counting once the player clicks on a card to begin
+
+* To create a game that is responsive on all devices with no bugs
+
+* To ensure that the game is playable and fun for all ages allowing users to play and then replay the game
 
 ***
 
 ## Structure
 
+The site will consist of 1 main page which will have all the information provided on the main page such as the name of the game, the aim of the game, a score panel and a timer alongside with a reset button which will reset the current game being played by the user, and of course the card pannel containing 16 cards with 8 images including their respective pair. Once the user completes the game, they are provided with a well done message and a thumbs up image with feedback of the time taken to complete aswell as their score rating, it will also provide the user an option to play again with a play again button.
+
 ## Features
 
-* The memory game will include a clear title of the game aswell as a clear instruction of what the aim of the game is.
+* A clear title of the game aswell as a clear instruction of what the aim of the game is.
 
-* The game will also include a score pannel of how well they are doing during the progression of the game aswell as a move counter to show how many moves they are using.
+* A score pannel of how well they are doing during the progression of the game aswell as a move counter to show how many moves they are using.
 
-* The game will also include a timer when the player begins the game so they are aware of how long it takes them to complete aswell as rest button if the user feels they want to restart the game.
+* A timer when the player begins the game so they are aware of how long it takes them to complete aswell as reset button if the user feels they want to restart the game.
 
-* The game will include 16 cards with a pair for each 8 images included in the game for the player to match, if the player gets an incorrect match then the cards flip over, but if they get a correct match, an animation appaears and the images stay visible making it easier for the players to match other pairs further on during the game.
+* The game will include 16 cards with a pair for each 8 images included in the game for the player to match, if the player gets an incorrect match then the cards flip over, but if they get a correct match, an animation appears and the images stay visible making it easier for the players to match other pairs further on during the game.
 
-* The player will be presented a congratulations message once they complete the game with feedback of how they did interms of time and moves used which will generate a score, the player will also be given an option to play again through clicking a play again button.
+* The player will be presented a well done message once they complete the game with feedback of how they did interms of time and moves used which will generate a score, the player will also be given an option to play again through clicking a play again button.
 
 ***
 
 ## Future Features
 
-* A fututre feature that I would like to add is probably somesort of leaderboard with the best times taken to complete the game aswell as amount of moves taken, that way players will feel more motivated to play and carry on to compete with the top spot
+* A fututre feature that I would like to add is probably somesort of leaderboard with the best times taken to complete the game aswell as amount of moves taken, that way players will feel more motivated to play and carry on to compete for the top spot
 
-* Another future feature that I would also like to implement is different types of games to the sight (not just a memory game) so that if the user feels they wnat a differnt game to play they have the option there to keep them even more engaged with the site
+* Another future feature that I would like to implement is different types of games to the site (not just a memory game) so that if the user feels they want a differnt game to play they have the option there, to keep them more engaged with the site
 
 * Another future feature that would be a good feature is to apply a countdown timer when the user starts the game as this would apply the user a slight sense of pressure to complete the game before the countdown ends making them feel more engaged into the game
 
@@ -116,11 +170,19 @@ As a new user:
 
 ### Supported screens:
 
+With the use of CSS media queries styles, using the google chrome inspect tool, I was able to see that my site is supported for all screens with a width of 280px. I did some testing by sending my website link to my friends and familys devices and they had seen no issues.
+
 ### Supported browsers:
+
+The website link has been tested on Google chrome, Internet Explorer and Microsoft edge, Brave and Firefox.
 
 ### OS compatibility:
 
+Tested on iOS, Android 10, and Windows 10. - I asked a friend with an Adroid to test that it was working. Tested for responsiveness using Chrome DevTools.
+
 ### Peformance Testing:
+
+Tested on the Developer Tools Lighthouse.
 
 ### Code validation:
 
