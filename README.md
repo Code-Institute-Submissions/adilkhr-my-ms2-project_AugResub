@@ -212,11 +212,13 @@ Tested on the Developer Tools Lighthouse.
 * #### I want to easily understand what type of game it is that I am playing and what the aim of the game is
 
 The name of the game is presented at the top of the page along with clear instuction on how to start and play
+
 ![instructions](README-files/testinstructions.png)
 
 * #### I want to be presented with a positive message once i complete the game alongside with the progress of how i did
 
 Once the user matches all cards, they are presented with a well done message telling them they have found all 8 pairs of cards with a thumbs up image, they are also provided with the time taken to complete along with the moves taken to complete which then provides them with their star rating
+
 ![Well done message](README-files/testwelldonemsge.png)
 
 ### Visting Users
@@ -224,6 +226,7 @@ Once the user matches all cards, they are presented with a well done message tel
 * #### I want to see how long it takes me to complete the game so that i can keep improving my speed and memory
 
 A timer is presented on screen that starts counting up once the user clicks on a card
+
 ![timer](README-files/testtimer.png)
 
 * #### I want to know what my score rating is so that i can aim to get the highest score rating possible
@@ -235,6 +238,7 @@ A score panel is presented above the timer for users to see how well they are do
 * #### I want to restart my current game if i am currently not happy with it
 
 There is a reset button presented above the card panel for users to click allowing them to start fresh which will reset the cards positions, the timer and the score panel along with the amount of moves used
+
 ![reset button](README-files/testresetbtn.png)
 
 ### All Users
@@ -248,6 +252,7 @@ By using css media queries, the game is responsive and playable across all devic
 * #### I want to have the option to play again once i finish
 
 Once the user finishes the game and is presented with the well done message, there is a play again button which will allow users to play again
+
 ![play again button](README-files/testplyagain.png)
 
 ### Fixed Bugs:
