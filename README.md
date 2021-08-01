@@ -194,11 +194,11 @@ Tested on the Developer Tools Lighthouse.
 
 ### Test User Stories:
 
-* In regards to test cases and seeing if the project meeters the user stories, here is a screenshot of the game and how it is presented when loaded up on screen (https://github.com/adilkhr/my-ms2-project/blob/master/testing/gamescreen.png)
+* In regards to test cases and seeing if the project meeters the user stories, here is a screenshot of the game and how it is presented when loaded up on screen
 
-* When the user gradually starts to match more cards it will end up being easier for them to complete the game and use less moves to match which this will affect their score/star rating, for visiting users the reset option is avaiable if they want to reset the game and start again if they feel that they have used to many moves which would have affected their score here is a screenshot of how it the game looks when in action (https://github.com/adilkhr/my-ms2-project/blob/master/testing/matchingcards.png)
+* When the user gradually starts to match more cards it will end up being easier for them to complete the game and use less moves to match which this will affect their score/star rating, for visiting users the reset option is avaiable if they want to reset the game and start again if they feel that they have used to many moves which would have affected their score here is a screenshot of how it the game looks when in action 
 
-* When the user completed the game they are then presented with a well done message to congratulate them for completing it with feed back of how they did interms of time taken and moves used which calculates their final score rating, here is a screenshot of how it looks (https://github.com/adilkhr/my-ms2-project/blob/master/testing/endgamemessage.png)
+* When the user completed the game they are then presented with a well done message to congratulate them for completing it with feed back of how they did interms of time taken and moves used which calculates their final score rating, here is a screenshot of how it looks
 
 ### Fixed Bugs:
 
