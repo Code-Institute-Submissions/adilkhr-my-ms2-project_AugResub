@@ -197,6 +197,10 @@ Tested on iOS, Android 10, and Windows 10. - I asked a friend with an Adroid to 
 
 Tested on the Developer Tools Lighthouse.
 
+![lighthouse test](README-files/lighthousems2.png)
+
+Very solid scores all round with SEO being the only small issue but hardly any difference as it is just 1 off 90
+
 ### Code validation:
 
 * When completing my HTML code, I had then inputed the code through [w3schools validator](https://validator.w3.org/) and found that there was no errors in the code
