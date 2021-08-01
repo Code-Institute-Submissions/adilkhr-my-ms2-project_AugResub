@@ -28,19 +28,19 @@ As a new user:
 
 * I want a game that is fully functional alongside being responsive on any device
 
-* I want to be presented with a positive message once i complete the game alongside with the progress of how i did
+* I want to be presented with a positive message once I complete the game alongside with the progress of how I did
 
-* I want to have the option to play again once i finish
+* I want to have the option to play again once I finish
 
 #### Visiting User goals:
 
-* I want to have the option to play again once i finish
+* I want to have the option to play again once I finish
 
-* I want to see how long it takes me to complete the game so that i can keep improving my speed and memory
+* I want to see how long it takes me to complete the game so that I can keep improving my speed and memory
 
-* I want to know what my score rating is so that i can aim to get the highest score rating possible
+* I want to know what my score rating is so that I can aim to get the highest score rating possible
 
-* I want to restart my current game if i am currnetly not happy with it
+* I want to restart my current game if I am currently not happy with it
 
 * I want a game that is fully functional alongside being responsive on any device
 
@@ -52,7 +52,7 @@ As a new user:
 
 * To bring in call of duty zombies gamers to try something fun thats related to the game they play
 
-* To create a game that i would enjoy playing myself
+* To create a game that I would enjoy playing myself
 
 ***
 
@@ -148,7 +148,7 @@ The site will consist of 1 main page which will have all the information provide
 
 * The theme of the game was actually taken from a game I enjoy myself which is from call of duty and their zombies game mode so I thought of a way to implement the theme into the game through the use of relevant images of the game aswell as a specific color scheme
 
-* The three main colours involved with my project are black, grey and red, as my game is based on a zombie themed game from call of duty which i am aware people are familiar with so I have added the color red to the cards but inside a grey box, with a light grey background and black text
+* The three main colours involved with my project are black, grey and red, as my game is based on a zombie themed game from call of duty which I am aware people are familiar with so I have added the color red to the cards but inside a grey box, with a light grey background and black text
 
 * The fonts used were from google fonts with the font familys roboto and new tegomin as I feel the new tegomin font style fits very well for the zombie theme approach of the game and the roboto balances it out so that the games font and text in general doesnt look to takky at all
 
@@ -183,7 +183,7 @@ The site will consist of 1 main page which will have all the information provide
 
 ### Supported screens:
 
-With the use of CSS media queries styles, using the google chrome inspect tool, I was able to see that my site is supported for all screens with a width of 280px. I did some testing by sending my website link to my friends and familys devices and they had seen no issues.
+With the use of CSS media queries styles, using the google chrome inspect tool, I was able to see that my site is supported for all screens with a width of 280px and above. I did some testing by sending my website link to my friends and familys devices and they had seen no issues.
 
 ### Supported browsers:
 
@@ -191,7 +191,7 @@ The website link has been tested on Google chrome, Internet Explorer and Microso
 
 ### OS compatibility:
 
-Tested on iOS, Android 10, and Windows 10. - I asked a friend with an Adroid to test that it was working. Tested for responsiveness using Chrome DevTools.
+Tested on iOS, Android 10, and Windows 10. - I asked a friend with an Android to test that it was working. Tested for responsiveness using Chrome DevTools.
 
 ### Peformance Testing:
 
@@ -219,27 +219,27 @@ The name of the game is presented at the top of the page along with clear instuc
 
 ![instructions](README-files/testinstructions.png)
 
-* #### I want to be presented with a positive message once i complete the game alongside with the progress of how i did
+* #### I want to be presented with a positive message once I complete the game alongside with the progress of how I did
 
-Once the user matches all cards, they are presented with a well done message telling them they have found all 8 pairs of cards with a thumbs up image, they are also provided with the time taken to complete along with the moves taken to complete which then provides them with their star rating
+Once the user matches all cards, they are presented with a well done message telling them that they have found all 8 pairs of cards with a thumbs up image, they are also provided with the time taken to complete along with the moves taken to complete which then provides them with their star rating
 
 ![Well done message](README-files/testwelldonemsge.png)
 
 ### Visting Users
 
-* #### I want to see how long it takes me to complete the game so that i can keep improving my speed and memory
+* #### I want to see how long it takes me to complete the game so that I can keep improving my speed and memory
 
 A timer is presented on screen that starts counting up once the user clicks on a card
 
 ![timer](README-files/testtimer.png)
 
-* #### I want to know what my score rating is so that i can aim to get the highest score rating possible
+* #### I want to know what my score rating is so that I can aim to get the highest score rating possible
 
 A score panel is presented above the timer for users to see how well they are doing aswell as the amount of moves used
 
 ![score panel](README-files/testscorepanel.png)
 
-* #### I want to restart my current game if i am currently not happy with it
+* #### I want to restart my current game if I am currently not happy with it
 
 There is a reset button presented above the card panel for users to click allowing them to start fresh which will reset the cards positions, the timer and the score panel along with the amount of moves used
 
@@ -253,7 +253,7 @@ By using css media queries, the game is responsive and playable across all devic
 
 ![Responsive](README-files/testresponsive.png)
 
-* #### I want to have the option to play again once i finish
+* #### I want to have the option to play again once I finish
 
 Once the user finishes the game and is presented with the well done message, there is a play again button which will allow users to play again
 
@@ -341,6 +341,8 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 * Matt Rudge - Template for Gitpod.io
 
+* Igor_ci (from slack) Provided help on how to link wireframes to the README
+
 * Full Stack Developers WhatsApp group (members of the codeinstitute slack community) - for taking the time to test the website aswell as providing help when needed with issues
 
 * I had used the [Code institute sample read me template](https://github.com/Code-Institute-Solutions/SampleREADME) to structure my own readme
@@ -357,4 +359,4 @@ Code & Content (not already attributed): Adil Khair
 
 ### Inspiration:
 
-* Youtube provided me with alot of understanding and help on how to build my game and how to function it with javascript to recieve a better understanding on how to build a memory game as I found these videos very useful, (https://www.youtube.com/watch?v=bbb9dZotsOc) (https://www.youtube.com/watch?v=ZniVgo8U7ek)
+* [Youtube](https://www.youtube.com/) provided me with alot of understanding and help on how to build my game and how to function it with javascript to recieve a better understanding on how to build a memory game as I found these videos very useful and was able to use these examples as inspirtation, (https://www.youtube.com/watch?v=bbb9dZotsOc) (https://www.youtube.com/watch?v=ZniVgo8U7ek)
