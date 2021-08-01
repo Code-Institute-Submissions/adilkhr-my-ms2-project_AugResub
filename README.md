@@ -259,7 +259,17 @@ Once the user finishes the game and is presented with the well done message, the
 
 * A major bug I was experiencing when creating my project was that my game was not responsive for a lot of smaller screen devices such as the galaxy fold, so I then added some media queries to adjust the sizing issue of the card deck pannel for screens that had small widths
 
+![non responsive screen](README-files/fixedbugscreens.png) ![responsive screen](README-files/testresponsive.png)
+
 * Another bug I was experiencing was when viewing the page through the python3 -mhttp.server comand in the terminal, the site was not showing as this is because I realised I had called the html file game.html, which I then changed it to index.html so that it views properly
+
+* Fixed an issue with the images of the cards being latteraly inverted causing some user experience issues. Was able to resolve the issue by implementing this code and changing the rotateY(180deg); to rotateY(360deg); : 
+
+.deck .card.flip {
+    transform: rotateY(360deg);
+}
+
+![inverted cards](README-files/fixedbugscards.png) ![new cards](README-files/fixedbugscardsnew.png)
 
 ***
 
