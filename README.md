@@ -156,13 +156,24 @@ The site will consist of 1 main page which will have all the information provide
 
 ## Technology
 
-* The Languages I have used to create this project are HTML to add the core content of the game, CSS to style the content of the game and Javascript to esnure the game runs and functions as intended to 
+### Languages & Frameworks
 
-* I have also used google Fonts to get the specific font styles needed, fontawesome to use font awesome icons for the game 
+* HTML5 - Mark-up language used to create the pages for site using semantic structure
+* CCS3 - Cascading style sheet used to style the site, aswell as adding media queries to make it responsive for pretty much all devices
+* Javascript - Programming language used to create functions working for the site
+* [Gitpod.io](https://www.gitpod.io/) - Used for creating the workspace for writing the code. Using the command line terminal for commiting and pushing to GIT Hub
+* [GitHub](https://github.com/) - Used for hosting repositories
+* GIT - Used for pushing the code to repositories
 
-* I have also used Balsamiq wireframes to create the wire frames for the game 
+### Front End
 
-* I have also used Github to create the code of the game aswell as using github do deploy the github pages
+* [Google fonts](https://fonts.google.com/) - Used for the Font
+* [Font Awesome](https://fontawesome.com/) - For the icons used
+
+### Planning
+
+* [Balsamic Wireframes](https://balsamiq.com/) - Used to create the wireframe designs of the site
+* [Iamresponsive](http://ami.responsivedesign.is/) - Used for mockup images
 
 ***
 
@@ -186,11 +197,11 @@ Tested on the Developer Tools Lighthouse.
 
 ### Code validation:
 
-* When completing my HTML code, I had then inputed the code through w3schools validator (https://validator.w3.org/) and found that there was no errors in the code
+* When completing my HTML code, I had then inputed the code through [w3schools validator](https://validator.w3.org/) and found that there was no errors in the code
 
-* When completing my CSS code, I had then inputed the code through w3schools validator (https://validator.w3.org/) and selected the CSS option and found that again just like the HTML code there was no errors in the code
+* When completing my CSS code, I had then inputed the code through [w3schools validator](https://validator.w3.org/) and selected the CSS option and found that again just like the HTML code there was no errors in the code
 
-* When completing my Javascript code, I had then inputed the code through the Javascript validator (https://jshint.com/) to ensure there was no erros in the Javascript code, it turns out there was no errors in the code
+* When completing my Javascript code, I had then inputed the code through the [Javascript validator (JS hint)](https://jshint.com/) to ensure there was no erros in the Javascript code, it turns out there was no errors in the code
 
 ### Test User Stories:
 
