@@ -206,10 +206,6 @@ Tested on the Developer Tools Lighthouse.
 
 * Another bug I was experiencing was when viewing the page through the python3 -mhttp.server comand in the terminal, the site was not showing as this is because I realised I had called the html file game.html, which I then changed it to index.html so that it views properly
 
-### Supported screens and browsers:
-
-* When viewing the page through browser I used the google chrome inspect tool to see if the game is responsive for all screens, and with the use of media queries to adjust the size of the deck pannel and cards for different screens widths, the site is responsive for all screens and devices and supports browsers
-
 ***
 
 ## Deployment
